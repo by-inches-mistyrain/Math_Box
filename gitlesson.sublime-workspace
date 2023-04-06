@@ -1,0 +1,783 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex-",
+				"text-transform"
+			],
+			[
+				"coway",
+				"coway-blue"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"text-",
+				"text-primary1"
+			],
+			[
+				"text",
+				"text-assort3"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"sha",
+				"shade2"
+			],
+			[
+				"text-as",
+				"text-assort1"
+			],
+			[
+				"text-a",
+				"text-assort3"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"text-assor",
+				"text-assort2"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"col-md",
+				"col-md-7"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"rbg",
+				"rgba()"
+			],
+			[
+				"col",
+				"col-md-7"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"W120",
+				"w120-select-width"
+			],
+			[
+				"de",
+				"default-select-width"
+			],
+			[
+				"w120",
+				"w120-select-width"
+			],
+			[
+				"backgroud",
+				"background-clip"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"se",
+				"secondary-color"
+			],
+			[
+				"prim",
+				"primary-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pri",
+				"primary-bg-color"
+			],
+			[
+				"bor",
+				"grey-border-solid"
+			],
+			[
+				"def",
+				"default-text-color"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "calculator.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hyaeyoungkim/MathTool/calculator.py",
+		"/Users/hyaeyoungkim/Desktop/calculator.py",
+		"/Users/hyaeyoungkim/Desktop/License",
+		"/Users/hyaeyoungkim/Downloads/git-bash-for-mac.sh",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/ko/ko.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/en-gb/en-gb.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/cn/cn.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/menu.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/header.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/scss/custom-style.scss",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/account/order_info.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/product-01-27-2022.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/product.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/shop.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/product_bundle.twig",
+		"/Applications/MAMP/htdocs/coway-test/system/devmanextensions_fixes.ocmod.xml",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/default/template/product/product.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/header22.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/footer.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/custom-style.css",
+		"/Volumes/Work/SIESOFT/LuxuryBag/htaccess-bk",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/categoryshop.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/product/categoryshop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/en-gb/product/product.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/cn/product/product.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/product/shop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/ko/product/shop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/ko/product/categoryshop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/product/product.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/en-gb/product/categoryshop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/en-gb/product/shop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/cn/product/categoryshop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/cn/product/shop.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/ko/product/product.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/footer-bk.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/product/product-bk.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/header-bk.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/en-gb/product/productshop.php",
+		"/Applications/MAMP/htdocs/coway-test/system/devmanextensions_add_field_to_product.ocmod.xml",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/productshop2.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/register_popup.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/common/header.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/common/home.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/default/template/extension/module/register_popup.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/common/header-dev.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/information/contact.twig",
+		"/Applications/MAMP/htdocs/coway-test/Pages/CN/contact.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/KR/career.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/scss/adtl-style.scss",
+		"/Applications/MAMP/htdocs/coway-test/Pages/CN/about.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/KR/about.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/CN/home-sales-number.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/KR/lease.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/adtl-style.css",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/category.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/default/template/extension/module/form_builder_pro.twig",
+		"/Volumes/Work/SIESOFT/Caresys/images/logo-superzoo.svg",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/payment/authorizenet_aim.twig",
+		"/Users/hyaeyoungkim/Downloads/hooksett/menu.html",
+		"/Volumes/Work/SIESOFT/HooksettSewer/index.html",
+		"/Volumes/Work/SIESOFT/HooksettSewer/menu.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/checkout/confirm_rental_purchase.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/checkout/confirm_rental_purchase.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/checkout/payment_method.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/model/extension/payment/pp_pro.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/extension/payment/pp_pro.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/payment/pp_pro_new.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/payment/pp_pro.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/advanced_faq.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/iblogs.css",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/iblogs/category.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/iblogs/post.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/information/information.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CM-9000-en.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/cn/extension/module/advanced_faq.php",
+		"/Applications/MAMP/htdocs/coway-test/robots.txt",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/iblogs/widget_post_recent.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CM-9000-cn.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CM-9000-kr.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/product-onlyoneproductworking.twig",
+		"/Applications/MAMP/htdocs/coway-test/Pages/monthly-promo-apr.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/may.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/monthly-promo-may.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/coway-promotion-march.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/scss/ethics.scss",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/ethics.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/scss/btn.scss",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/test.css",
+		"/Applications/MAMP/htdocs/coway-test/config.php",
+		"/Volumes/Work/SIESOFT/Agnes/!Source/wp-config.php",
+		"/Volumes/Work/SIESOFT/Agnes/htaccess",
+		"/Applications/MAMP/htdocs/coway-test/Pages/monthly-promo-apr-cn.html",
+		"/Applications/MAMP/htdocs/coway-test/Pages/coway-promotion-april.html",
+		"/Volumes/Work/SIESOFT/Irashai Fairbank/Back-up/wp-content/plugins/restropress/includes/checkout/functions.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product/search.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/AP-2318D-en.html",
+		"/Users/hyaeyoungkim/Downloads/backup_2022-04-12-0518_iGracemedi_8243f09f0b4e-db",
+		"/Applications/MAMP/bin/php/php7.4.2/conf/php.ini",
+		"/Applications/MAMP/htdocs/zaxis/wp-config.php",
+		"/Applications/MAMP/htdocs/coway-test/coway-promotion-march.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/language/ko/extension/module/advanced_faq.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/common/menu.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/controller/extension/module/advanced_faq.php",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/scss/_colors.scss",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/faq-header.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/extension/module/advanced_faq-bk.twig",
+		"/Applications/MAMP/htdocs/coway/catalog/view/theme/coway/template/faq-header.html",
+		"/Applications/MAMP/htdocs/coway-test/admin/controller/extension/advanced_faq/advanced_faq.php",
+		"/Applications/MAMP/htdocs/coway-test/admin/controller/extension/advanced_faq/advanced_faqs.php",
+		"/Volumes/Work/SIESOFT/Coway/Site V2/!Source/catalog/view/theme/coway/template/common/header.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/adtl-style-latest.css",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CP-251L.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-12-cn.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-2022-02.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-12.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-11.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CHP-5710L.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/CHP-5710L-en.html",
+		"/Applications/MAMP/htdocs/coway/admin/index.php",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-2022-01-cn.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/checkout/rental_confirm.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/checkout/checkout_rental_purchase.twig",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/stylesheet/custom-style-v16.css",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/javascript/common.js",
+		"/Volumes/Work/SIESOFT/Zion MTF/e-mail/email-congrats.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo.html",
+		"/Applications/MAMP/htdocs/coway-test/bts-promo-cn.html",
+		"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/product-detail/AP-2318D.twig"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway-test",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway-test",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway-test",
+			"/Applications/MAMP/htdocs/coway-test/catalog",
+			"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway/template/product",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway-test/catalog/view/theme/coway",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway2",
+			"/Applications/MAMP/htdocs/coway2/catalog/controller",
+			"/Applications/MAMP/htdocs/coway2/catalog/language",
+			"/Applications/MAMP/htdocs/coway2/catalog/controller",
+			"/Applications/MAMP/htdocs/coway2/catalog/view/theme/coway/template",
+			"/Applications/MAMP/htdocs/coway2/admin",
+			"/Applications/MAMP/htdocs/coway2/catalog",
+			"/Applications/MAMP/htdocs/coway2/admin",
+			"/Applications/MAMP/htdocs/coway2/catalog/language",
+			"/Applications/MAMP/htdocs/coway2/admin",
+			"/Applications/MAMP/htdocs/coway2/catalog/language",
+			"/Applications/MAMP/htdocs/coway2/admin",
+			"/Applications/MAMP/htdocs/coway2/catalog/language",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway2/catalog/language",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway2",
+			"/Applications/MAMP/htdocs/coway2/catalog",
+			"<open files>",
+			"/Applications/MAMP/htdocs/coway2/catalog",
+			"/Applications/MAMP/htdocs/coway2/catalog/language/zh",
+			"/Applications/MAMP/htdocs/coway2/catalog",
+			"/Applications/MAMP/htdocs/coway2/catalog/view/theme/coway/template",
+			"/Applications/MAMP/htdocs/coway2/catalog/view/theme/coway/template/checkout",
+			"",
+			"/Applications/MAMP/htdocs/coway2/catalog",
+			"<open files>",
+			"/Volumes/Work/SIESOFT/Coway/Site V3/!Source/catalog",
+			"<open files>",
+			"/Volumes/Work/SIESOFT/Coway/Site V3/!Source/catalog",
+			"/Applications/MAMP/htdocs/coway/catalog/view/theme/coway",
+			"/Volumes/Work/SIESOFT/Coway/Site2019/!Source",
+			"/Volumes/Work/SIESOFT/Co-Pack/!Source",
+			"<open files>",
+			"/Volumes/Work/SIESOFT/YNY International/!Source/assets/scss",
+			"/Volumes/Work/SIESOFT/YNY International/!Source/templates",
+			"/Volumes/Work/SIESOFT/YNY International/!Source/assets/scss",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational/templates",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational/assets/scss",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational/templates",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational/assets/scss",
+			"<current file>",
+			"/Users/hyaeyoungkim/Documents/YNY/ynyinternational",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/assets/scss",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/Cornerstone-4.5.4/assets/scss",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/templates",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/assets/scss",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/templates",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/assets/scss",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/templates",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/assets/scss",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/templates",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0/assets/scss/psdc_custom",
+			"/Volumes/HyaeyoungBackup/SIESOFT/YNY International/Theme/LifeStyle-1.3.0"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Song",
+			"new_song_title",
+			"previous_song",
+			"play_previous_song",
+			"list1",
+			"playlist",
+			"print_list",
+			"append",
+			"promotion_link",
+			"eng",
+			"P-09CL",
+			"rdo-price",
+			"Related Options",
+			"rdo-price",
+			"Related Option",
+			"product-price",
+			"table",
+			"popup1",
+			".close",
+			"tab",
+			"fontawesome",
+			"146ff8",
+			"right",
+			"description_short_2",
+			"description_short",
+			"short",
+			"promotion",
+			"modalRegisterPopup",
+			"modal",
+			"CM-9000",
+			"desc-04",
+			"icon-box",
+			"promotion_link",
+			"h1",
+			"<h2 class=\"heading34\">",
+			"contact-info",
+			"h2",
+			"<h1>",
+			"</h1>",
+			"<h1>",
+			"<h2>",
+			"h1>",
+			"<h1",
+			"h1",
+			"</h1>",
+			"<h1>",
+			"<h2>",
+			"h1",
+			"No.1 Brand",
+			"form123",
+			"form-field",
+			"h1",
+			"form-builder-pro",
+			"form123",
+			"robots",
+			"background",
+			"modalRegisterPopup",
+			"month.value",
+			"month",
+			"month.value",
+			"cc-expire",
+			"cc_expire",
+			"expire",
+			"Promotion",
+			"phones",
+			"phones row",
+			"phones",
+			"meta",
+			"phone",
+			"center !im",
+			"line-height: 18px",
+			"line-height:",
+			"&",
+			"CP-251",
+			"#bts-promotion",
+			"bts-promo-heading",
+			"promotion",
+			"before",
+			"ul",
+			"'../image/",
+			"$img + '",
+			"max_filesize",
+			"upload",
+			"promotion",
+			"promo-aircare",
+			"submenu-container",
+			"/promo-body",
+			"/promo-air",
+			".pm-water",
+			"promo-water",
+			"bts-promo-heading",
+			"nav-pills",
+			"redirect",
+			"590",
+			"ㅏ양",
+			"promotion",
+			"language",
+			"promotion",
+			"Promotion Code",
+			"modal-content",
+			"border",
+			"btn",
+			"radius",
+			"btn",
+			"info",
+			"ADDEF1",
+			"#ADDEF1",
+			"registerPopup",
+			"nav-",
+			"nav-product",
+			"<br />",
+			"media",
+			"&cn",
+			"1.5em",
+			"bts-promo-heading",
+			"event",
+			"ap8",
+			"prod-text",
+			"http://208.72.217.231",
+			"link-view-product",
+			"pborder-radius",
+			".sh",
+			"sh",
+			"nav-mobile",
+			"border-radius",
+			"http://208.72.217.231/",
+			"text_wait",
+			"If you can’t have the order confirmation page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SongNode",
+			"title",
+			"prev_song",
+			"play_prev_song",
+			"playlist1",
+			"display_playlist",
+			"add_song",
+			"chatboxKorean",
+			".chatclose",
+			"h2",
+			"<h2>",
+			"h1",
+			"<h2 class=\"heading28\">",
+			"</h2>",
+			"<h2 class=\"heading28\">",
+			"h2>",
+			"<h2",
+			"h2",
+			"</h2>",
+			"<h2 class=\"sn-heading\">",
+			"h2",
+			"#monthly-promotion",
+			"mp-heading",
+			"'image/",
+			"'../image/ethics/",
+			"/pm-body",
+			"/pm-air",
+			".promo-water",
+			"pm-water",
+			"<br>",
+			"https://zionmtf.org",
+			"link-more",
+			"/",
+			"/image/",
+			"/image/catalog/",
+			"(https://sie.coway-usa.com/image/catalog/product-detail",
+			"icon",
+			"href=\"",
+			"two-tone-bg-color-h",
+			"submenu-name",
+			"item-img",
+			"item-text",
+			"cont/",
+			"/catalog/view/theme/coway/image/",
+			"http://localhost:8888/coway/",
+			"col-md-3 col-sm-6 col-xs-12",
+			"\"Noto Sans KR\",sans-serif;",
+			"navcategory",
+			"#021549",
+			"Lato"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "calculator.py",
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"maintenance",
+				"ynyinternational/templates/pages/unavailable/maintenance.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"mk",
+				"/Volumes/Work/Sublime Projects/mklending.sublime-project"
+			],
+			[
+				"coway",
+				"/Users/hyaeyoungkim/Documents/Sublime Projects/coway.sublime-project"
+			],
+			[
+				"bou",
+				"/Users/hyaeyoungkim/Documents/Sublime Projects/boutique.sublime-project"
+			],
+			[
+				"copac",
+				"/Volumes/Work/Sublime Projects/copack.sublime-project"
+			],
+			[
+				"copa",
+				"/Volumes/Work/Sublime Projects/copack.sublime-project"
+			],
+			[
+				"copack",
+				"/Volumes/Work/Sublime Projects/copack.sublime-project"
+			],
+			[
+				"b",
+				"/Users/hyaeyoungkim/Documents/Sublime Projects/boutique.sublime-project"
+			],
+			[
+				"bo",
+				"/Users/hyaeyoungkim/Documents/Sublime Projects/boutique.sublime-project"
+			],
+			[
+				"minsley",
+				"~/Documents/Sublime Projects/minsley.sublime-project"
+			],
+			[
+				"ri",
+				"~/Documents/Sublime Projects/RisseMask.sublime-project"
+			],
+			[
+				"care",
+				"~/Documents/Sublime Projects/caresysmall.sublime-project"
+			],
+			[
+				"my",
+				"~/Documents/Sublime Projects/mycelleste.sublime-workspace"
+			],
+			[
+				"car",
+				"~/Documents/Sublime Projects/carbada-live.sublime-project"
+			],
+			[
+				"vel",
+				"~/Documents/Sublime Projects/velzera.sublime-project"
+			],
+			[
+				"jostar",
+				"~/Documents/Sublime Projects/jostar.sublime-project"
+			],
+			[
+				"luggage",
+				"~/Documents/Sublime Projects/luggagehunt.sublime-project"
+			],
+			[
+				"ahl",
+				"~/Documents/Sublime Projects/ahl111.sublime-project"
+			],
+			[
+				"serom",
+				"~/Documents/Sublime Projects/seromskin.sublime-project"
+			],
+			[
+				"mins",
+				"~/Documents/Sublime Projects/minsley.sublime-project"
+			],
+			[
+				"sbs",
+				"~/Documents/Sublime Projects/sbs.sublime-project"
+			],
+			[
+				"jjmb",
+				"~/Documents/jjmb.sublime-project"
+			],
+			[
+				"award",
+				"~/Documents/Sublime Projects/awardpromoguru.sublime-project"
+			],
+			[
+				"la",
+				"~/Documents/Sublime Projects/laboho.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/Sublime Projects/artisan.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
