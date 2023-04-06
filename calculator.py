@@ -8,5 +8,8 @@ def subtract(a, b):
 def multiply(a, b):
     return a*b
 
-def division(a, b):
+def divide(a, b):
     return a/b
+
+def premium_formula(a, b):
+	return (a+b)/b
